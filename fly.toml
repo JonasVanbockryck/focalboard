@@ -6,6 +6,10 @@
 app = 'focalboard-ancient-sky-9885'
 primary_region = 'cdg'
 
+[mounts]
+  source = "focalboard_data"
+  destination = "/data"
+
 [build]
   dockerfile = '/docker/Dockerfile'
 
