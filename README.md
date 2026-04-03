@@ -120,3 +120,4 @@ Before checking in commits, run `make ci`, which is similar to the `.gitlab-ci.y
 * **Chat**: Join the [~Focalboard community channel](https://community.mattermost.com/core/channels/focalboard)
 
 // updated readme
+<!-- updated it again -->
