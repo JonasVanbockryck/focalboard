@@ -42,4 +42,4 @@ EXPOSE 8000/tcp 9092/tcp
 
 VOLUME /opt/focalboard/data
 
-CMD ["/opt/focalboard/bin/focalboard-server", "--addr=0.0.0.0", "--port=8000"]
+CMD ["/opt/focalboard/bin/focalboard-server"]

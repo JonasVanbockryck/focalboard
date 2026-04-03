@@ -1,5 +1,5 @@
 {
-  "serverRoot": "http://localhost:8000",
+  "serverRoot": "http://0.0.0.0:8000",
   "port": 8000,
   "dbtype": "sqlite3",
   "dbconfig": "./data/focalboard.db",
